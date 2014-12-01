@@ -6,8 +6,17 @@ CADToppers.com AutoCAD Plugin
 
 Met deze CADToppers.com AutoCAD Plugin is het mogelijk om op eenvoudige wijze een overzicht van de aanwezige lagen in AutoCAD te genereren.
 
-De broncode mag vrij aangepast worden, wel zou het mooi zijn om de wijzigingen ook weer inzichtelijk te maken via Git.
+De broncode mag vrij aangepast worden, wel zou het mooi zijn om de wijzigingen ook weer inzichtelijk te maken via GitHub.
 Mocht je wijzigingen aan de code willen toevoegen, stuur mij dan een berichtje zodat ik je als Collaborator kan toevoegen.
+
+HOE START IK MET DE PLUGIN
+=========
+<ul>
+<li>Installeer de .NET SDK van AutoDESK</li>
+<li><a href="https://github.com/roynijkamp/CADToppers.com/archive/master.zip">Download de laatste versie van de Plugin</a></li>
+<li><u>Of</u> Maak een clone van de repository <pre>git clone https://github.com/roynijkamp/CADToppers.com.git</pre></li>
+<li>Open het project in Visual Studio</li>
+</ul>
 
 DE PLUGIN
 =========
