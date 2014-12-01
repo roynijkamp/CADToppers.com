@@ -9,6 +9,7 @@ De broncode mag vrij aangepast worden, wel zou het mooi zijn om de wijzigingen o
 Mocht je wijzigingen aan de code willen toevoegen, stuur mij dan een berichtje zodat ik je als Collaborator kan toevoegen.
 
 DE PLUGIN
+=========
 De plugin is geschreven met Visual Studio Express 2012.
 Om de Code te kunnen compileren is het noodzakelijk de juiste .NET libraries van AutoDESK te installeren. (http://usa.autodesk.com/adsk/servlet/index?id=1911627&siteID=123112)
 
