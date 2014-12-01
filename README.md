@@ -28,7 +28,7 @@ Met het commando <b>CADTOP</b> wordt uiteindelijk de plugin gestart.
 
 WAAROM DEZE PLUGIN
 ==========
-CADToppers.com is een Nederlandstalig CAD gerelateerd forum waar enthousiaste gebruikers elkaar ondersteunen bij allerdaagse CAD uitdagingen.<br>
+www.CADToppers.com is een Nederlandstalig CAD gerelateerd forum waar enthousiaste gebruikers elkaar ondersteunen bij allerdaagse CAD uitdagingen.<br>
 Een van de uitdagingen was om op eenvoudige wijze een overzicht te genereren van de aanwezige layers.<br>
 Het uiteindelijke resultaat is een .NET plugin.
 
