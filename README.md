@@ -11,6 +11,9 @@ Mocht je wijzigingen aan de code willen toevoegen, stuur mij dan een berichtje z
 
 HOE START IK MET DE PLUGIN
 =========
+Download de plugin installer en installeer de Pugin in AutoCAD 2014 en 2015.<br>
+<a href="https://github.com/roynijkamp/CADToppers.com/releases/download/v1.0.0.0/CADToppers.com-1.0.0.0.exe">Klik hier voor de installer</a><br><br>
+Of download de Source Code en compileer je eigen versie.<br>
 <ul>
 <li>Installeer de .NET SDK van AutoDESK</li>
 <li><a href="https://github.com/roynijkamp/CADToppers.com/archive/master.zip">Download de laatste versie van de Plugin</a></li>
