@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage 
+   SchemaVersion="1.0"
+   Name="CADToppers.com AutoCAD Plugin"
+   AppVersion="1.0"
+   ProductCode="{2ba6b97a-f521-4c01-9613-60bb41bff086}"
+   Author="R. Nijkamp"
+   Icon="./Resources/icon.ico"
+   HelpFile="./Docs/Handleiding.pdf"
+   Description="Plugin voor het maken van een layer overzicht"
+   UpgradeCode="{2ba6b97a-f521-4c01-9613-60bb41bff086}"> <!-- Remain UpgradeCode -->
+  <CompanyDetails
+    Name="Roy Nijkamp"
+    Phone=""
+    Url="http://www.roynijkamp.nl"
+    Email="roynijkamp@roynijkamp.nl" />
+
+  <Components> <!-- Alle AutoCAD producten -->
+    <RuntimeRequirements
+      Platform="AutoCAD|AutoCAD*"
+      OS="Win32|Win64"
+      SeriesMin="R19.1"
+      SeriesMax="R20.0" />
+
+    <ComponentEntry
+      AppName="CADTOPPERS"
+      ModuleName="./Contents/CADToppers.dll"
+      AppDescription="CADTOPPERS"
+      LoadOnCommandInvocation="True">
+      <Commands GroupName="AILegenda">
+        <Command Local="cadtop" Global="cadtop" StartupCommand="False" />
+      </Commands>
+    </ComponentEntry>
+  
+  </Components>
+</ApplicationPackage>
